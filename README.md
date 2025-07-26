@@ -1,3 +1,3 @@
 # Dhiva's Portfolio
 
-Live at: https://buildbydhiva.github.io
+Live at: https://dhivakardhiva.github.io/buildbydhiva.github.io/
